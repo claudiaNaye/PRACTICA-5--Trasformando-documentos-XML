@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:/Users/soyda/Downloads/Paso1.xsl"?>
+<perros>
+<perro>
+<Nombre>CLEO</Nombre>
+<Dueño>CLAUDIA NAYELI GONZALEZ CUNDAPI</Dueño>
+</perro>
+<perro>
+<Nombre>ALI</Nombre>
+<Dueño>WALTER ALEJANDRO DIAZ GONZALEZ</Dueño>
+</perro>
+<perro>
+<Nombre>REX</Nombre>
+<Dueño>MAURICIO ALEJANDRO</Dueño>
+</perro>
+<perro>
+<Nombre>CHIMINO</Nombre>
+<Dueño>LAURA JANET CUNDAPII</Dueño>
+</perro>
+<perro>
+<Nombre>QUIRA</Nombre>
+<Dueño>BRENDA JANETH GONZALEZ CUNDAPI</Dueño>
+</perro>
+<perro>
+<Nombre>QUIARA</Nombre>
+<Dueño>CRISTOBAL GONZALEZ PEREZ</Dueño>
+</perro>
+<perro>
+<Nombre>LUNA</Nombre>
+<Dueño>ALEJANDRA GOMEZ PEREZ</Dueño>
+</perro>
+</perros>
